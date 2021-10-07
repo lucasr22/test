@@ -1,0 +1,1 @@
+vari.body.style.backgroundColor="#333"
