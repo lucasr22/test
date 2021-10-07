@@ -1,0 +1,145 @@
+.pbody{
+	background-color: seagreen;
+}
+
+#apresentacao{
+	padding-top: 15%;
+	padding-left: 37%;
+}
+
+input{
+	display: block;
+	width: 46%;
+	border-radius: 10px;
+	padding-top: 3%;
+	border: 1px;
+}
+
+button{
+	margin-top: 1%;
+	width: 47%;
+	border-radius: 10px ;
+	background-color: #1a73e8;
+	border: 1px;
+	
+}	
+
+#dashboard{
+	width: 15%;
+	height: 760px;
+	background-color: #232222;
+	margin-left: -1%;
+	margin-top: -1.5%;
+	border-radius: 24px;
+}
+
+a{
+	color: dodgerblue;
+	text-decoration: none;
+}
+
+h4{
+	margin-left: 10%;
+}
+
+h2{
+	color: white;
+	margin-left: 30%;
+
+}
+
+.conteiner-fluid{
+	width: 100%;
+
+}
+
+.h1{
+	font-family: bold;
+	color: dodgerblue;
+	font-size: 35px;
+	padding-left: 17%;
+    margin-top: -60%;
+}
+
+.hr{
+	width: 80%;
+	margin-top: -1%;
+	margin-left: 16%;
+}
+
+.table{
+	width: 94%;
+    border: 1px solid black;
+    margin-left: 2%;
+    margin-top: 2%;
+	
+}
+
+.but{
+	margin-top: 1%;
+	width: 13%;
+    margin-left: 76%;
+    border-radius: 24px;
+    background-color: #f55;
+    border: 1px solid black;
+    
+}
+
+.ared{
+	color: red;
+}
+
+.alucro{
+	color: #75ff1e;
+}
+
+.buty{
+	margin-left: 62%;
+
+}
+
+.form{
+	margin-top: -5%;
+}
+
+.bck{
+	background-color:#75ff1e ;
+}
+
+.inputt{
+	display: inline;
+    width: 17%;
+    
+	
+}
+
+.btnn{
+    width: 11%;
+    margin-left: 18%;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 0.0%;
+    padding-top: 0.5%;
+}
+
+tr{
+	color: black;
+	margin-left: 17%;
+}
+td{
+	color: black;
+	margin-left: 17%;
+}
+.hrs{
+	width: 50;
+	margin-left: 17%;
+	background-color: #000;
+}
+
+.hrb{
+	border-bottom: 1%;
+}
+
+form{
+	margin-left: 17%;
+}
