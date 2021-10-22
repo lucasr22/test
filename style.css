@@ -1,0 +1,169 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+	}
+
+.pbody{
+	background-color: seagreen;
+}
+
+#apresentacao{
+	margin: auto;
+	width: 60%;
+	margin-top:17%;
+}
+
+input{
+	display: block;
+	width: 46%;
+	padding: 1%;
+	
+}
+
+button{
+	margin-top: 1%;
+	width: 64%;
+	padding: 2%;
+	border-radius: 3px ;
+	background-color: #1a73e8;
+	border: 1px;
+	margin-left: 2%;
+	
+}	
+
+#dashboard{
+	width: 15%;
+	height: 900px;
+	background-color: #232222;
+	float: left;
+	
+}
+
+a{
+	color: dodgerblue;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 1.5em;
+	display: block;
+	margin-left: 0.5rem;
+
+}
+
+#dashboard a {
+	padding: 5% 0 5% 5%;
+	border-bottom: 1px solid #333;
+}
+
+#dashboard a:hover {
+	text-decoration: underline;
+}
+
+
+h2{
+	color: white;
+	margin-left: 30%;
+	font-family: sans-serif;
+
+}
+
+.conteiner-fluid{
+	width: 100%;
+
+}
+
+.h1{
+	font-family: bold;
+	color: dodgerblue;
+	font-size: 35px;
+	padding-left: 17%;
+	font-family: sans-serif;
+    
+}
+
+.hr{
+	width: 80%;
+	margin-left: 16%;
+}
+
+.table{
+	width: 94%;
+    margin-left: 2%;
+    margin-top: 2%;
+	
+}
+
+.but{
+	margin-top: 1%;
+	width: 13%;
+    margin-left: 76%;
+    border-radius: 24px;
+    background-color: #f55;
+    border: 1px solid black;
+    
+}
+
+.ared{
+	color: red;
+}
+
+.alucro{
+	color: #75ff1e;
+}
+
+.buty{
+	margin-left: 62%;
+
+}
+
+.form{
+	margin-top: -5%;
+}
+
+
+
+.inputt{
+	display: inline;
+    width: 17%;
+    
+	
+}
+
+.btnn{
+    width: 11%;
+    margin-left: 3%;
+  padding: 1%;
+  margin-top: 1%;
+   
+  
+}
+
+tr{
+	color: black;
+	margin-left: 17%;
+}
+td{
+	color: black;
+	margin-left: 17%;
+	border-bottom: 1px solid #ccc;
+	padding: 1%;
+
+}
+
+.hrb{
+	border-bottom: 1%;
+}
+
+.mb{
+	margin-bottom: 5%;
+}
+.bordabaixo{
+	border-bottom: 1px solid #333;
+}
+
+div input{
+	padding: 2%;
+	margin: 2%;
+	width: 60%;
+
+}
